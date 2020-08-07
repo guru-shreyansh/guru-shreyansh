@@ -30,18 +30,20 @@ Whatever I have learned is through self-study and enrolling in various online pr
     Being an <b>Internet enthusiast</b>, I love <b>freelancing</b> and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
 
     **Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting**
-When I'm not developing and building things, you can find me <b>Youtubing</b> learning, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b>.</i></p>
-:smiley:
+When I'm not developing and building things, you can find me <b>Youtubing</b> learning, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b>.</i></p> :smiley:
 
 
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br/>
+### 👨‍💻 Languages I Know
+<br><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></br>
 
 
-### 👨‍💻 Languages and Tools
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+### :hocho: Tools I Use
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
+[![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
+ 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
