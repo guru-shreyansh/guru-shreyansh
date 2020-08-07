@@ -44,20 +44,32 @@ When I'm not developing and building things, you can find me <b>Youtubing</b> le
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
 [![JavaFX](https://img.shields.io/badge/JavaFX-brown?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
 
-### 
+### Graphic Designer
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom-F7DC6F?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
+
+### Integrated Development Environment & VCS
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
+## Motion Graphics is Live
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-3C4858?style=flat-square&logo=adobe-premiere-pro)
+
+## CMS
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
+
+## Editors
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
+
+### Operating Software
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word">
-<img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel">
-<img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+### Productivity Software
+<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 ### Contact Me
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
@@ -66,19 +78,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b> le
 |✉️ *rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*|
 
 
-## Motion Graphics is Live
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-3C4858?style=flat-square&logo=adobe-premiere-pro)
 
-## CMS
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
-![Joomla](http://img.shields.io/badge/-Blogspot-FC8F30?style=flat-square&logo=blogspot&logoColor=white)
-
-## Editors
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
-![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
 
 <a href="https://in.linkedin.com/in/TheDudeThatCode">
@@ -156,3 +156,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
+![Joomla](http://img.shields.io/badge/-Blogspot-FC8F30?style=flat-square&logo=blogspot&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
