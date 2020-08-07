@@ -28,16 +28,13 @@
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br/>
 
-*Welcome to my GitHub! I'm Shreyansh, an Eʟεcтяıcαʟ ✘ Σπɢιπεεя and Đεvεℓσρεя focused on crafting great web/app experiences. Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an internet enthusiat, I love freelancing and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
-Designing and Coding have been my passion since the days I started working with computers but I found myself into app design/development since 2018.
-Being an Engineer I believe in using science to find creative practical solutions. My other hobbies includes Photography, Cooking & Painting.*
 
 <h2 align="center">Welcome to my GitHub! 👋</h2>
 <p align="center"><i>I'm Shreyansh, an Eʟεcтяıcαʟ ✘ Σπɢιπεεя and Đεvεℓσρεя focused on crafting great web/app experiences.
-Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an internet enthusiat, I love freelancing and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
+Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an internet enthusiast, I love freelancing and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
 Designing and Coding have been my passion since the days I started working with computers but I found myself into app design/development since 2018.</i>
-    Being an Engineer I believe in using science to find creative practical solutions. My other hobbies includes Photography, Cooking & Painting.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching movies, daydreaming actionpacked self made dreams or gaming on my laptop.</p>
+    Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting.
+When I'm not developing and building things, you can find me on Youtube learning, Penning down thoughts/experiences, Watching movies, Daydreaming, Listening to music or Gaming on my laptop. Most importantly, whatever happens I always keep learning. :simple_smile:</p>
 
 
 
