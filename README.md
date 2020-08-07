@@ -12,7 +12,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?&style=social)](https://twitter.com/intent/user?screen_name=GURU_Shreyansh)
 [![GitHub Followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
 
-[![Linkedin: shreyansh-kumar-singh](https://img.shields.io/badge/-shreyansh-kumar-singh?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-kumar-singh)](https://www.linkedin.com/in/shreyansh-kumar-singh)
+[![Linkedin: shreyansh-kumar-singh](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-kumar-singh)](https://www.linkedin.com/in/shreyansh-kumar-singh)
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
