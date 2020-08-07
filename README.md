@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <h2>नमस्ते (Namaste):rabbit:, I'm Shreyansh Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
@@ -27,6 +28,20 @@
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br/>
 
+*Welcome to my GitHub! I'm Shreyansh, an Eʟεcтяıcαʟ ✘ Σπɢιπεεя and Đεvεℓσρεя focused on crafting great web/app experiences. Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an internet enthusiat, I love freelancing and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
+Designing and Coding have been my passion since the days I started working with computers but I found myself into app design/development since 2018.
+Being an Engineer I believe in using science to find creative practical solutions. My other hobbies includes Photography, Cooking & Painting.*
+
+<h2 align="center">Welcome to my GitHub! 👋</h2>
+<p align="center"><i>I'm Shreyansh, an Eʟεcтяıcαʟ ✘ Σπɢιπεεя and Đεvεℓσρεя focused on crafting great web/app experiences.
+Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an internet enthusiat, I love freelancing and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
+Designing and Coding have been my passion since the days I started working with computers but I found myself into app design/development since 2018.</i>
+    Being an Engineer I believe in using science to find creative practical solutions. My other hobbies includes Photography, Cooking & Painting.
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching movies, daydreaming actionpacked self made dreams or gaming on my laptop.</p>
+
+
+
+
 ### 👨‍💻 Languages and Tools
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -47,8 +62,10 @@
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+
+<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word">
+<img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel">
+<img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 ### Contact Me
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
@@ -130,8 +147,6 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
 
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
 #### < Get Socialistic >
 ➧ [Facebook](https://www.facebook.com/guru.shreyansh)
