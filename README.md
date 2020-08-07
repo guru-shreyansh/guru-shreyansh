@@ -1,10 +1,10 @@
-### Hi there 👋
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="150">
 
 <h2>नमस्ते (Namaste):rabbit:, I'm Shreyansh Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="150">
+
 
 <p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -12,7 +12,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?&style=social)](https://twitter.com/intent/user?screen_name=GURU_Shreyansh)
 [![GitHub Followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: shreyansh-kumar-singh](https://img.shields.io/badge/-shreyansh-kumar-singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-kumar-singh)](https://www.linkedin.com/in/shreyansh-kumar-singh)
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
