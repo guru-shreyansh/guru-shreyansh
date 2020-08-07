@@ -29,8 +29,8 @@
 Whatever I have learned is through self-study and enrolling in various online programs/courses only.
     Being an <b>Internet enthusiast</b>, I love <b>freelancing</b> and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
 
-    *Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting.*
-When I'm not developing and building things, you can find me on Youtube learning, Penning down thoughts/experiences, Watching movies, Daydreaming, Listening to music or Gaming on my laptop. Most importantly, whatever happens I always keep learning.</i></p> :simple_smile:
+    **Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting**
+When I'm not developing and building things, you can find me <b>Youtubing</b> learning, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b>, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b>.</i></p> :simple_smile:
 
 
 
