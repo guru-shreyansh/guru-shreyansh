@@ -26,8 +26,6 @@
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists)
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br/>
-
 
 <h2 align="center">Welcome to my GitHub! 👋</h2>
 <p align="center"><i>I'm Shreyansh, an Eʟεcтяıcαʟ ✘ Σπɢιπεεя and Đεvεℓσρεя focused on crafting great web/app experiences.
@@ -37,6 +35,8 @@ Designing and Coding have been my passion since the days I started working with 
 When I'm not developing and building things, you can find me on Youtube learning, Penning down thoughts/experiences, Watching movies, Daydreaming, Listening to music or Gaming on my laptop. Most importantly, whatever happens I always keep learning. :simple_smile:</p>
 
 
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br/>
 
 
 ### 👨‍💻 Languages and Tools
