@@ -27,10 +27,10 @@
 <p align="center"><i>I'm <b>Shreyansh</b>, an <b>Eʟεc✞яıcαʟ ✘ Σπɢιπεεя</b> and <b>Đεvεℓσρεя</b> focused on crafting great web/app experiences.
     Designing and Coding have been my passion since the days I started working with computers but I found myself into app design/development since 2018.
 Whatever I have learned is through self-study and enrolling in various online programs/courses only.
-    Being an <b>Internet enthusiast</b>, I love freelancing and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
+    Being an <b>Internet enthusiast</b>, I love <b>freelancing</b> and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
 
-    Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting.
-When I'm not developing and building things, you can find me on Youtube learning, Penning down thoughts/experiences, Watching movies, Daydreaming, Listening to music or Gaming on my laptop. Most importantly, whatever happens I always keep learning. :simple_smile:</i></p>
+    *Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting.*
+When I'm not developing and building things, you can find me on Youtube learning, Penning down thoughts/experiences, Watching movies, Daydreaming, Listening to music or Gaming on my laptop. Most importantly, whatever happens I always keep learning.</i></p> :simple_smile:
 
 
 
