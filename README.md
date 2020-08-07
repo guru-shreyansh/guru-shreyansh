@@ -30,7 +30,7 @@ Whatever I have learned is through self-study and enrolling in various online pr
     Being an <b>Internet enthusiast</b>, I love <b>freelancing</b> and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
 
     **Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting**
-When I'm not developing and building things, you can find me <b>Youtubing</b> learning, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b>.</i></p> :smiley:
+When I'm not developing and building things, you can find me <b>Youtubing</b> learning, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b>.</i></p>:smiley:
 
 
 
@@ -46,7 +46,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b> le
 
 ### Graphic Designer
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom-F7DC6F?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
+![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom-5DADE2?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
 
 ### Integrated Development Environment & VCS
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
