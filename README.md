@@ -10,7 +10,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?&style=social)](https://twitter.com/intent/user?screen_name=GURU_Shreyansh "Get Socialistic")
-[![GitHub Followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh "Check my Repo+")
+[![GitHub Followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh "Check my Repo")
 
 [![Linkedin: shreyansh-kumar-singh](https://img.shields.io/badge/-Shreyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-kumar-singh)](https://www.linkedin.com/in/shreyansh-kumar-singh "Let's get Linked in!")
 [![Instagram: guru_shreyansh](https://img.shields.io/badge/-@guru_shreyansh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/guru_shreyansh)](https://instagram.com/guru_shreyansh "I'm Photoholic")
@@ -18,8 +18,8 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/guru-shreyansh "Welcome to Github")
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/919889299896?text=हर%20हर%20महादेव%20ツ%20GURU's%20Here!!%20Text%20Me%20(ᵔᴥᵔ))](https://wa.me/919889299896?text=हर%20हर%20महादेव%20ツ%20GURU's%20Here!!%20Text%20Me%20(ᵔᴥᵔ) "Whatsapp Me!!")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/guru.shreyansh "Message Me on FB")
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/919889299896?text=हर%20हर%20महादेव%20ツ%20GURU's%20Here!!%20Text%20Me%20(ᵔᴥᵔ))](https://wa.me/919889299896?text=हर%20हर%20महादेव%20ツ%20GURU's%20Here!!%20Text%20Me%20(ᵔᴥᵔ) "Whatsapp Me!")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/guru.shreyansh "Message Me on Facebook")
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/c/GURUShreyansh "My Youtube Channel")
 
 
