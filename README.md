@@ -42,7 +42,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b> le
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
-[![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
+[![Java](https://img.shields.io/badge/Java-brown?style=flat&logo=java8&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
  
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
