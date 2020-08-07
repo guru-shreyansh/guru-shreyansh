@@ -13,8 +13,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
 
 [![Linkedin: shreyansh-kumar-singh](https://img.shields.io/badge/-Shreyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-kumar-singh)](https://www.linkedin.com/in/shreyansh-kumar-singh)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Instagram: guru_shreyansh](https://img.shields.io/badge/-@guru_shreyansh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/guru_shreyansh)](https://instagram.com/guru_shreyansh)
+[![Gmail: GURU](https://img.shields.io/badge/-Gmail@GURU-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sagriddegree.hp.07@gmail.com)](mailto:sagriddegree.hp.07@gmail.com)
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
