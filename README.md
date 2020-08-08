@@ -73,7 +73,6 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 -------
 
-
 <p align="center">
   <img src="https://shrey.ansh.png" width="200px">
   <br>
@@ -92,11 +91,10 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     :ghost: Hobbies:<table align="center">
       <tr><td>Photography</td> <td>Gaming</td></tr>
       <tr><td>Cooking</td> <td>Painting</td></tr>
-      <tr><td>Movies Buff</td> <td>Writing</td></tr>
+      <tr><td>Writing</td> <td>Movies Buff</td></tr>
       </table>
   </samp>
 </p>
-
 
 
 <a href="https://in.linkedin.com/in/TheDudeThatCode">
@@ -112,6 +110,25 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Every <b>relationship starts with a connection</b>. This is how <b>friendships begin and love grows</b>. I'll be <b>happy to connect and know others</b> and be better friends 😊</em><img src="Handshake.gif" width="60">
+
+
+#### < Get Socialistic >
+➧ [Facebook](https://www.facebook.com/guru.shreyansh)
+➧ [Instagram](https://www.instagram.com/guru_shreyansh)
+➧ [Twitter](https://twitter.com/GURU_Shreyansh)
+
+## :octocat: @GURU-Shreynash :octocat:
+
+---
+
+<p align="right">
+    <a href="https://github.com/GURU-Shreyansh" target="_blank">⭐️ ☛ <b>GURU-Shreyansh</b></a>
+</p>
+
+
+
 <!--
 **guru-shreyansh/guru-shreyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -126,25 +143,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
-
-
-#### < Get Socialistic >
-➧ [Facebook](https://www.facebook.com/guru.shreyansh)
-➧ [Instagram](https://www.instagram.com/guru_shreyansh)
-➧ [Twitter](https://twitter.com/GURU_Shreyansh)
-
-## :octocat: @GURU-Shreynash :octocat:
-
----
-
-<p align="right">
-    **<a href="https://github.com/GURU-Shreyansh" target="_blank">⭐️ From <em>GURU-Shreyansh</em></a>
-</p>
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
