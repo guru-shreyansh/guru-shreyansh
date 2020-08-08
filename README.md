@@ -90,9 +90,9 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh <br>
     :man: Pronouns: He/Him/His <br>
     :ghost: Hobbies:<table align="center">
-      <tr><td>Photography</td></tr> <td>Gaming</td>
-      <tr><td>Cooking</td></tr> <td>Painting</td>
-      <tr><td>Movies Buff</td><td>Writing</td></tr>
+      <tr><td>Photography</td> <td>Gaming</td></tr>
+      <tr><td>Cooking</td> <td>Painting</td></tr>
+      <tr><td>Movies Buff</td> <td>Writing</td></tr>
       </table>
   </samp>
 </p>
