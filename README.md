@@ -53,14 +53,14 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### 🎬 Motion Graphics is Love
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-3C4858?style=flat-square&logo=adobe-premiere-pro)
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-797D7F?style=flat-square&logo=adobe-premiere-pro)
 
 ### ⌨ CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 
 ### 💻 Editors
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
-![VS Code](http://img.shields.io/badge/-VS%20Code-AAB7B8?style=flat-square&logo=visual-studio-code)
+![VS Code](http://img.shields.io/badge/-VS%20Code-FF00FF?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
 ### 📺 Operating Software
