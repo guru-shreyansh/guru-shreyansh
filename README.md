@@ -51,15 +51,15 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
-## 🎬 Motion Graphics is Love
+### 🎬 Motion Graphics is Love
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-3C4858?style=flat-square&logo=adobe-premiere-pro)
 
-## ⌨ CMS
+### ⌨ CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 
-## 💻 Editors
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+### 💻 Editors
+![VS Code](http://img.shields.io/badge/-VS%20Code-AAB7B8?style=flat-square&logo=visual-studio-code)
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
