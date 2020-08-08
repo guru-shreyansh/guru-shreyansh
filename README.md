@@ -32,7 +32,7 @@ Whatever I have learned is through self-study and enrolling in various online pr
     **Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting**
 When I'm not developing and building things, you can find me <b>Youtubing</b>, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b> 🙂.</i></p>
 
-> `S` `K` `I` `L` `L` ＆ `I` `N` `T` `E` `R` `E` `S` `T` `S` 
+> `S` `K` `I` `L` `L`  ＆  `I` `N` `T` `E` `R` `E` `S` `T` `S` 
 
 ### :hocho: Tools I Use
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
