@@ -111,7 +111,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
   </a>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Every <b>relationship starts with a connection</b>. This is how <b>friendships begin and love grows</b>. I'll be <b>happy to connect and know others</b> and be better friends 😊</em><img src="Handshake.gif" width="60">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Every <b>relationship starts with a connection</b>. This is how <b>friendships begin and love grows</b>😊. I'll be <b>happy to connect and know others</b> and be better friends. </em><img src="Handshake.gif" width="60">
 
 
 #### < Get Socialistic >
