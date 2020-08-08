@@ -44,7 +44,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### 🎭 Graphic Designer
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom%20CC-F39C12?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
+![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom%20CC-21618C?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
 
 ### :globe_with_meridians: VCS & Integrated Development Environment
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
@@ -53,7 +53,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### 🎬 Motion Graphics is Love
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-13AAC2?style=flat-square&logo=adobe-premiere-pro)
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-F39C12?style=flat-square&logo=adobe-premiere-pro)
 
 ### ⌨ CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
