@@ -32,7 +32,7 @@ Whatever I have learned is through self-study and enrolling in various online pr
     **Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting**
 When I'm not developing and building things, you can find me <b>Youtubing</b>, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b> 🙂.</i></p>
 
-> `S` `K` `I` `L` `L`  ＆  `I` `N` `T` `E` `R` `E` `S` `T` `S` 
+> `S` `K` `I` `L` `L` `S`  ＆  `I` `N` `T` `E` `R` `E` `S` `T` `S` 
 
 ### :hocho: Tools I Use
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -43,11 +43,11 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh "Python") 
 [![JavaFX](https://img.shields.io/badge/JavaFX-brown?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh "JavaFX")
 
-### 🎭 Graphic Designer
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+### 🎭 Graphic Designing
 ![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom%20CC-21618C?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-### :globe_with_meridians: Integrated Development Environment
+### :globe_with_meridians: Integrated Development Environments
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
@@ -59,7 +59,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 ![Joomla](http://img.shields.io/badge/-Joomla-808000?style=flat-square&logo=joomla&logoColor=white)
 
-### 💻 Editors
+### 💻 Editors I Prefer
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-EC4FC1?style=flat-square&logo=visual-studio-code)
