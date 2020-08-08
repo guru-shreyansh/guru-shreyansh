@@ -44,7 +44,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### 🎭 Graphic Designer
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom%20CC-21618C?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
+![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom%20CC-F39C12?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
 
 ### :globe_with_meridians: VCS & Integrated Development Environment
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
