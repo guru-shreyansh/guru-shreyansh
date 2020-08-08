@@ -85,7 +85,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     :notebook: I’m currently preparing for PSUs Exams <br>
     :email:	sagriddegree.hp.07@gmail.com <br>
     :phone: +919889299896 <br>
-    :art: Website🖱Portfolio: https://guru-shreyansh.github.io <br>
+    :art: Website🖱Portfolio: https://GURU-Shreyansh.github.IO <br>
     :pencil: Resume: [Will Upload Soon] <br>
     :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh <br>
     :man: Pronouns: He/Him/His <br>
