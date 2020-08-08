@@ -74,6 +74,31 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 
 
+<p align="center">
+  <img src="https://shrey.ansh.png" width="200px">
+  <br>
+  <samp>
+    Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="20px">
+    Electrical Engineer at <br>
+    :school: Institute of Engineering & Management, Kolkata<br>
+    :sparkles: JAVA, C, WebDevlopement, OOPs, AI <br>
+    :notebook: I’m currently preparing for PSUs Exams <br>
+    :email:	sagriddegree.hp.07@gmail.com <br>
+    :phone: +919889299896 <br>
+    :art: Website/Portfolio: https://guru-shreyansh.github.io <br>
+    :pencil: Resume: [Will Upload Soon] <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh <br>
+    :man: Pronouns: He/Him/His
+    :ghost: Hobbies:<table>
+      <tr><td>Photography</td></tr> <td>Gaming</td>
+      <tr><td>Cooking</td></tr> <td>Painting</td>
+      <tr><td>Movies Buff</td><td>Writing</td></tr>
+      </table>
+  </samp>
+</p>
+
+
+
 <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -86,25 +111,6 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
   <a href="mailto:shubhamdeepjha@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/IyjFcq1.png" width="200px">
-  <br>
-  <samp>
-    Hello, I'm Jon! 👋
-    Software Engineer Intern at Mekari<br>
-    :school: Sophomore at University of Indonesia<br>
-    :sparkles: Favorite Tech: React, Typescript, GraphQL, Postgres ... <br>
-    :notebook: I’m currently learning CS <br>
-    :email:	jojonicho181@gmail.com <br>
-    :art: Portfolio: https://jojonicho.wtf <br>
-    :pencil: Resume: https://cv.jojonicho.wtf <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/joni <br>
-    Image Artist: https://ansqee.netlify.app <br>
-    :notes: Aimer, Mrs. GREEN APPLE, Kenshi Yonezu <br>
-  </samp>
-</p>
 
 <!--
 **guru-shreyansh/guru-shreyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -121,15 +127,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----------
-### About
--  **Working :** Mobile-App & Web Development :iphone: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
----------
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
 
@@ -155,9 +153,17 @@ Here are some ideas to get you started:
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-
 ### Contact Me
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *96645 94525*|
 |✉️ *rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*|
+
+---------
+### About
+-  **Working :** Mobile-App & Web Development :iphone: | JAVA :cloud: 
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :**  :innocent:
+---------
