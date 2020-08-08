@@ -124,7 +124,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ---
 
 <p align="right">
-    <a href="https://github.com/GURU-Shreyansh" target="_blank">⭐️ ☛ <b>GURU-Shreyansh</b></a>
+    ⭐️<a href="https://github.com/GURU-Shreyansh" target="_blank"> <b>GURU-Shreyansh</b></a>
 </p>
 
 
@@ -142,7 +142,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
@@ -165,3 +164,4 @@ Here are some ideas to get you started:
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 -  **Pronouns :**  :innocent:
 ---------
+-->
