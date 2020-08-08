@@ -89,7 +89,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     :pencil: Resume: [Will Upload Soon] <br>
     :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh <br>
     :man: Pronouns: He/Him/His <br>
-    :ghost: Hobbies:<table>
+    :ghost: Hobbies:<table align="center">
       <tr><td>Photography</td></tr> <td>Gaming</td>
       <tr><td>Cooking</td></tr> <td>Painting</td>
       <tr><td>Movies Buff</td><td>Writing</td></tr>
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="right">
-**⭐️ From [GURU-Shreyansh](https://github.com/GURU-Shreyansh)**
+    **<a href="https://github.com/GURU-Shreyansh" target="_blank">⭐️ From <em>GURU-Shreyansh</em></a>
 </p>
 
 
