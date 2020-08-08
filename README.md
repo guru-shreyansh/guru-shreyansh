@@ -46,9 +46,9 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom%20CC-21618C?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
 
-### :globe_with_meridians: VCS & Integrated Development Environment
+### :globe_with_meridians: Integrated Development Environment
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ### 🎬 Motion Graphics is Love
@@ -60,13 +60,14 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ![Joomla](http://img.shields.io/badge/-Joomla-FC8F30?style=flat-square&logo=joomla&logoColor=white)
 
 ### 💻 Editors
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-EC4FC1?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
 ### 🔮 Operating System
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=android&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-48C9B0?style=flat-square&logo=android&logoColor=ffffff)
 
 ### 🛠 Productivity Software
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
