@@ -78,7 +78,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
   <img src="https://shrey.ansh.png" width="200px">
   <br>
   <samp>
-    Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px">
+    Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px"><br>
     B. Tech Undergraduate in Electrical & Electronics Engineering <br>
     :school: Institute of Engineering & Management, Kolkata<br>
     :sparkles: JAVA, C, WebDevlopement, OOPs, AI <br>
