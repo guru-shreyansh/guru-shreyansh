@@ -57,14 +57,16 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### ⌨ CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
+![Joomla](http://img.shields.io/badge/-Joomla-FC8F30?style=flat-square&logo=joomla&logoColor=white)
 
 ### 💻 Editors
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-EC4FC1?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
-### 🔮 Operating Software
+### 🔮 Operating System
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=android&logoColor=ffffff)
 
 ### 🛠 Productivity Software
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
@@ -156,5 +158,5 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
-![Joomla](http://img.shields.io/badge/-Blogspot-FC8F30?style=flat-square&logo=blogspot&logoColor=white)
+
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
