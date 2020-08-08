@@ -63,7 +63,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ![VS Code](http://img.shields.io/badge/-VS%20Code-EC4FC1?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
-### 📺 Operating Software
+### 🔮 Operating Software
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ### 🛠 Productivity Software
