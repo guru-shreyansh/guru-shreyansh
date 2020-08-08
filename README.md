@@ -80,7 +80,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px"><br>
     B. Tech Undergraduate in Electrical & Electronics Engineering <br>
     :school: Institute of Engineering & Management, Kolkata<br>
-    :sparkles: JAVA, C, WebDevlopement, OOPs, AI <br>
+    :sparkles: JAVA, C, Web-Devlopement, OOPs, AI <br>
     :notebook: I’m currently preparing for PSUs Exams <br>
     :email:	sagriddegree.hp.07@gmail.com <br>
     :phone: +919889299896 <br>
@@ -96,36 +96,40 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
   </samp>
 </p>
 
-
-<a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+------------------------
+#### < Get Socialistic >
+<a href="https://twitter.com/GURU_Shreyansh" target="_blank">
+    <img align="center" alt="GURU | Twitter" width="32px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <a href="https://linkedin.com/in/shreyansh-kumar-singh">
+    <img align="center" alt="GURU | Linkedin" width="30px" src="" />
   </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <a href="https://instagram.com/guru_shreyansh" target="_blank">
+    <img align="center" alt="GURU | Instagram" width="32px" src="" />
   </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a href="https://paypal.me/gurushreyansh" target="_blank">
+    <img align="center" alt="GURU | Paypal" width="30px" src="" />
+  </a>
+  <a href="https://facebook.com/guru.shreyansh" target="_blank">
+    <img align="center" alt="GURU | Facebook" width="32px" src="" />
+  </a>
+  <a href="https://gurushreyansh.wordpress.com" target="_blank">
+    <img align="center" alt="GURU | Wordpress" width="30px" src="" />
+  </a>
+  <a href="https://youtube.com/c/GURUShreyansh/videos" target="_blank">
+    <img align="center" alt="GURU | Youtube" width="32px" src="" />
   </a>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Every <b>relationship starts with a connection</b>. This is how <b>friendships begin and love grows</b>😊. I'll be <b>happy to connect and know others</b> and be better friends. </em><img src="Handshake.gif" width="60">
 
 
-#### < Get Socialistic >
-➧ [Facebook](https://www.facebook.com/guru.shreyansh)
-➧ [Instagram](https://www.instagram.com/guru_shreyansh)
-➧ [Twitter](https://twitter.com/GURU_Shreyansh)
-
-## :octocat: @GURU-Shreynash :octocat:
-
----
-
 <p align="right">
     ⭐️<a href="https://github.com/GURU-Shreyansh" target="_blank"> <b>GURU-Shreyansh</b></a>
 </p>
+
+
+
 
 
 
