@@ -48,7 +48,6 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### :globe_with_meridians: Integrated Development Environment
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ### 🎬 Motion Graphics is Love
@@ -57,7 +56,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### ⌨ CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
-![Joomla](http://img.shields.io/badge/-Joomla-FC8F30?style=flat-square&logo=joomla&logoColor=white)
+![Joomla](http://img.shields.io/badge/-Joomla-808000?style=flat-square&logo=joomla&logoColor=white)
 
 ### 💻 Editors
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -67,7 +66,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ### 🔮 Operating System
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-48C9B0?style=flat-square&logo=android&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-884EA0?style=flat-square&logo=android&logoColor=ffffff)
 
 ### 🛠 Productivity Software
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
