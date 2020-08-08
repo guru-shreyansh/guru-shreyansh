@@ -30,45 +30,43 @@ Whatever I have learned is through self-study and enrolling in various online pr
     Being an <b>Internet enthusiast</b>, I love <b>freelancing</b> and building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages.
 
     **Being an Engineer I believe in using science to find creative practical solutions. My other hobbies include Photography, Cooking & Painting**
-When I'm not developing and building things, you can find me <b>Youtubing</b>, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b>😁.</i></p>
-
+When I'm not developing and building things, you can find me <b>Youtubing</b>, <b>Penning</b> down thoughts/experiences, <b>Watching</b> movies, <b>Daydreaming</b> imaginatively, <b>Listening</b> to music or <b>Gaming</b> on my laptop. Most importantly, whatever happens I always keep <b>LEARNING</b> 🙂.</i></p>
 
 
 ### 👨‍💻 Languages I Know
-<br><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></br>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 
-
-### :hocho: Tools I Use
+### :gun::hocho: Tools I Use
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh) 
 [![JavaFX](https://img.shields.io/badge/JavaFX-brown?style=flat&logo=java&logoColor=white&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
 
-### Graphic Designer
+### 🎭 Graphic Designer
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe Lightroom](http://img.shields.io/badge/-Abode%20Lightroom%20CC-21618C?style=flat-square&logo=adobe-lightroom-cc&logoColor=ffffff)
 
-### Integrated Development Environment & VCS
+### :globe_with_meridians: VCS & Integrated Development Environment
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
-## Motion Graphics is Live
+## 🎬 Motion Graphics is Love
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-3C4858?style=flat-square&logo=adobe-premiere-pro)
 
-## CMS
+## ⌨ CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 
-## Editors
+## 💻 Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
-### Operating Software
+### 📺 Operating Software
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-### Productivity Software
+### 🛠 Productivity Software
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 ### Contact Me
