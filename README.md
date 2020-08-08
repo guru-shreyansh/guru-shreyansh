@@ -59,8 +59,8 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 
 ### 💻 Editors
-![VS Code](http://img.shields.io/badge/-VS%20Code-AAB7B8?style=flat-square&logo=visual-studio-code)
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
+![VS Code](http://img.shields.io/badge/-VS%20Code-AAB7B8?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
 ### 📺 Operating Software
