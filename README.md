@@ -143,7 +143,9 @@ Here are some ideas to get you started:
 
 ---
 
-**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
+<p align="right">
+**⭐️ From [GURU-Shreyansh](https://github.com/GURU-Shreyansh)**
+</p>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
