@@ -78,8 +78,8 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
   <img src="https://shrey.ansh.png" width="200px">
   <br>
   <samp>
-    Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="20px">
-    Electrical Engineer at <br>
+    Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px">
+    B. Tech Undergraduate in Electrical & Electronics Engineering <br>
     :school: Institute of Engineering & Management, Kolkata<br>
     :sparkles: JAVA, C, WebDevlopement, OOPs, AI <br>
     :notebook: I’m currently preparing for PSUs Exams <br>
@@ -88,7 +88,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     :art: Website/Portfolio: https://guru-shreyansh.github.io <br>
     :pencil: Resume: [Will Upload Soon] <br>
     :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh <br>
-    :man: Pronouns: He/Him/His
+    :man: Pronouns: He/Him/His <br>
     :ghost: Hobbies:<table>
       <tr><td>Photography</td></tr> <td>Gaming</td>
       <tr><td>Cooking</td></tr> <td>Painting</td>
