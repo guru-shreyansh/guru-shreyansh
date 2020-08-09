@@ -74,7 +74,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 -------
 
 <p align="center">
-  <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" height="260px" width="200px">
+  <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" height="240px" width="180px">
   <br>
   <samp>
     Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px"><br>
@@ -99,31 +99,31 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ------------------------
 #### < Get Socialistic >
 <a href="https://twitter.com/GURU_Shreyansh" target="_blank">
-    <img align="center" alt="GURU | Twitter" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Twitter.png" Link />
+    <img align="center" alt="GURU | Twitter" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Twitter.png" title="Twitter: GURU_Shreyansh" />
   </a>
   <a href="https://linkedin.com/in/shreyansh-kumar-singh">
-    <img align="center" alt="GURU | Linkedin" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Linkedin.png" />
+    <img align="center" alt="GURU | Linkedin" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Linkedin.png" title="Linkedin: shreyansh-kumar-singh" />
   </a>
   <a href="https://instagram.com/guru_shreyansh" target="_blank">
-    <img align="center" alt="GURU | Instagram" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Instagram.png" />
+    <img align="center" alt="GURU | Instagram" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Instagram.png" title="Instagram: guru_shreyansh" />
   </a>
   <a href="https://paypal.me/gurushreyansh" target="_blank">
-    <img align="center" alt="GURU | Paypal" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Paypal.png" />
+    <img align="center" alt="GURU | Paypal" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Paypal.png" title="PayPal: GURUshreyansh" />
   </a>
   <a href="https://facebook.com/guru.shreyansh" target="_blank">
-    <img align="center" alt="GURU | Facebook" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Facebook.png" />
+    <img align="center" alt="GURU | Facebook" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Facebook.png" title="guru.shreyansh" />
   </a>
   <a href="https://gurushreyansh.wordpress.com" target="_blank">
-    <img align="center" alt="GURU | Wordpress" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Wordpress.png" />
+    <img align="center" alt="GURU | Wordpress" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Wordpress.png" title="GURUShreyansh" />
   </a>
   <a href="https://youtube.com/c/GURUShreyansh/videos" target="_blank">
-    <img align="center" alt="GURU | Youtube" width="64px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Youtube.png" />
+    <img align="center" alt="GURU | Youtube" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Youtube.png" />
   </a>
 
 
 <div align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Every <b>friendship starts with a conversation or connection</b> 🧐.</div>
     <div align="center">This is how <b>friendships begin and love grows</b> 😊.</div>
-        <div align="right">I'll be <b>happy to connect and know others</b> and be better friends. </em><img src="Handshake.gif" width="60"></div>
+        <div align="right">I'll be <b>happy to connect and know others</b> and be better friends. </em><img src="/GIFs/Sticker-Handshake.gif" width="60"></div>
 
 
 <p align="right">
