@@ -73,7 +73,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 -------
 
-<p align="center" style="background-image: url('https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Cover/Webpage-Background_2.jpg');">
+<p align="center" style="background-image: url('https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Cover/Webpage-Background_2.jpg')">
   <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" height="180px" width="150px">
   <br>
   <samp>
