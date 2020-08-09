@@ -74,7 +74,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 -------
 
 <p align="center">
-  <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" height="240px" width="180px">
+  <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" height="220px" width="180px">
   <br>
   <samp>
     Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px"><br>
@@ -113,10 +113,10 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     <img align="center" alt="GURU | Paypal" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Paypal.png" title="PayPal: GURUshreyansh" />
   </a>
   <a href="https://facebook.com/guru.shreyansh" target="_blank">
-    <img align="center" alt="GURU | Facebook" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Facebook.png" title="guru.shreyansh" />
+    <img align="center" alt="GURU | Facebook" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Facebook.png" title="Facebook: guru.shreyansh" />
   </a>
   <a href="https://gurushreyansh.wordpress.com" target="_blank">
-    <img align="center" alt="GURU | Wordpress" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Wordpress.png" title="GURUShreyansh" />
+    <img align="center" alt="GURU | Wordpress" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Wordpress.png" title="Wordpress: GURUshreyansh" />
   </a>
   <a href="https://youtube.com/c/GURUShreyansh/videos" target="_blank">
     <img align="center" alt="GURU | Youtube" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Youtube.png" title="Youtube: GURUShreyansh" />
