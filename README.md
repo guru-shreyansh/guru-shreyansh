@@ -5,7 +5,6 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
 <p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -75,7 +74,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 -------
 
 <p align="center">
-  <img src="https://shrey.ansh.png" width="200px">
+  <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" width="200px">
   <br>
   <samp>
     Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px"><br>
@@ -100,25 +99,25 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 ------------------------
 #### < Get Socialistic >
 <a href="https://twitter.com/GURU_Shreyansh" target="_blank">
-    <img align="center" alt="GURU | Twitter" width="32px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="GURU | Twitter" width="32px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Twitter.png" />
   </a>
   <a href="https://linkedin.com/in/shreyansh-kumar-singh">
-    <img align="center" alt="GURU | Linkedin" width="30px" src="" />
+    <img align="center" alt="GURU | Linkedin" width="30px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Linkedin.png" />
   </a>
   <a href="https://instagram.com/guru_shreyansh" target="_blank">
-    <img align="center" alt="GURU | Instagram" width="32px" src="" />
+    <img align="center" alt="GURU | Instagram" width="32px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Instagram.png" />
   </a>
   <a href="https://paypal.me/gurushreyansh" target="_blank">
-    <img align="center" alt="GURU | Paypal" width="30px" src="" />
+    <img align="center" alt="GURU | Paypal" width="30px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Paypal.png" />
   </a>
   <a href="https://facebook.com/guru.shreyansh" target="_blank">
-    <img align="center" alt="GURU | Facebook" width="32px" src="" />
+    <img align="center" alt="GURU | Facebook" width="32px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Facebook.png" />
   </a>
   <a href="https://gurushreyansh.wordpress.com" target="_blank">
-    <img align="center" alt="GURU | Wordpress" width="30px" src="" />
+    <img align="center" alt="GURU | Wordpress" width="30px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Wordpress.png" />
   </a>
   <a href="https://youtube.com/c/GURUShreyansh/videos" target="_blank">
-    <img align="center" alt="GURU | Youtube" width="32px" src="" />
+    <img align="center" alt="GURU | Youtube" width="32px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Youtube.png" />
   </a>
 
 
