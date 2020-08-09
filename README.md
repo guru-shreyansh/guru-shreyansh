@@ -119,7 +119,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     <img align="center" alt="GURU | Wordpress" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Sketchy-Icons/Wordpress.png" title="GURUShreyansh" />
   </a>
   <a href="https://youtube.com/c/GURUShreyansh/videos" target="_blank">
-    <img align="center" alt="GURU | Youtube" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Youtube.png" />
+    <img align="center" alt="GURU | Youtube" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Youtube.png" title="Youtube: GURUShreyansh" />
   </a>
 </div>
 
