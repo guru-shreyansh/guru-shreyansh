@@ -74,7 +74,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 -------
 
 <p align="center">
-  <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" height="180px" width="160px">
+  <img src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Profile/Shrey.Ansh.jpg" height="180px" width="150px">
   <br>
   <samp>
     Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px"><br>
