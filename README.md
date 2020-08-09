@@ -129,7 +129,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 
 <p align="right">
-    ⭐️<a href="https://github.com/GURU-Shreyansh" target="_blank"> <b>GURU-Shreyansh</b></a><img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="50">
+    ⭐️<a href="https://github.com/GURU-Shreyansh" target="_blank"> <b>GURU-Shreyansh</b></a><img src="https://media.giphy.com/media/Qakyyrk1IKwuK8YtQ6/giphy.gif" width="50">
 </p>
 
 
