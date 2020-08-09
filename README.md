@@ -98,6 +98,8 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 ------------------------
 #### < Get Socialistic >
+
+<div align="center">
 <a href="https://twitter.com/GURU_Shreyansh" target="_blank">
     <img align="center" alt="GURU | Twitter" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Twitter.png" title="Twitter: GURU_Shreyansh" />
   </a>
@@ -119,11 +121,11 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
   <a href="https://youtube.com/c/GURUShreyansh/videos" target="_blank">
     <img align="center" alt="GURU | Youtube" width="100px" src="https://github.com/guru-shreyansh/guru-shreyansh/blob/master/Social-Media-Icons/Splatter-Icons/Youtube.png" />
   </a>
-
+</div>
 
 <div align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Every <b>friendship starts with a conversation or connection</b> 🧐.</div>
     <div align="center">This is how <b>friendships begin and love grows</b> 😊.</div>
-        <div align="right">I'll be <b>happy to connect and know others</b> and be better friends. </em><img src="/GIFs/Sticker-Handshake.gif" width="60"></div>
+        <div align="right">I'll be <b>happy to connect and know others</b> and be better friends.</em><img src="/GIFs/Sticker-Handshake.gif" width="60"></div>
 
 
 <p align="right">
