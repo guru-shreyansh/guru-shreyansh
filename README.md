@@ -125,11 +125,11 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 
 <div align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Every <b>friendship starts with a conversation or connection</b> 🧐.</div>
     <div align="center">This is how <b>friendships begin and love grows</b> 😊.</div>
-        <div align="right">I'll be <b>happy to connect and know others</b> and be better friends.</em><img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="30"></div>
+        <div align="right">I'll be <b>happy to connect and know others</b> and be better friends.</em></div>
 
 
 <p align="right">
-    ⭐️<a href="https://github.com/GURU-Shreyansh" target="_blank"> <b>GURU-Shreyansh</b></a>
+    ⭐️<a href="https://github.com/GURU-Shreyansh" target="_blank"> <b>GURU-Shreyansh</b></a><img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="30">
 </p>
 
 
