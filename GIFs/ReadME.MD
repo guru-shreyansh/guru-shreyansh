@@ -13,6 +13,6 @@
 
 | <img src="Sticker-Developer.gif" width=300 height=300> | <img src="Sticker-Dino.gif" width=300 height=300> | <img src="Sticker-Handshake.gif" width=300 height=300> |
 
-| <img src="Sticker-Hi.gif" width=333 height= | <img src="Sticker-Mario Gameplay.gif" width=333 height=333> | <img src="Text-Hello_xT9IgsPAIIH4BuFr0s.gif" width=300 height=300 |
+| <img src="Sticker-Hi.gif" width=300 height=300 | <img src="Sticker-Mario Gameplay.gif" width=300 height=300> | <img src="Text-Hello_xT9IgsPAIIH4BuFr0s.gif" width=300 height=300 |
 
-| <img src="Video-Games-Applause_lhvyCCcFuQFKo.gif" width=333 height=333> | <img src="Wave-Reaction_ozjhQ61WOfmb9FPbpd.gif" width=333 height=333> |
+| <img src="Video-Games-Applause_lhvyCCcFuQFKo.gif" width=300 height=300> | <img src="Wave-Reaction_ozjhQ61WOfmb9FPbpd.gif" width=300 height=300> |
