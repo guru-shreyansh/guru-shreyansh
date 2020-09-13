@@ -1,7 +1,7 @@
 | GIFs Previews |
 | ------------- |
 
-| <img src="Black-Cat_WUlplcMpOCEmTGBtBW.gif" width=325 height=325> <img src="Code_ukMiDlCmdv2og.gif" width=325 height=325> <img src="Confused-Emoji_xUOrvZ4p5o3QlIumZO.gif" width=325 height=325> |
+<img src="Black-Cat_WUlplcMpOCEmTGBtBW.gif" width=325 height=325> <img src="Code_ukMiDlCmdv2og.gif" width=325 height=325> <img src="Confused-Emoji_xUOrvZ4p5o3QlIumZO.gif" width=325 height=325>
 
 | <img src="Dog-Hello_26Fxy3Iz1ari8oytO.gif" width=300 height=300> | <img src="Eat-Sleep-Code-Repeat_USV0ym3bVWQJJmNu3N.gif" width=300 height=300> | <img src="Home-Coding_M9gbBd9nbDrOTu1Mqx.gif" width=300 height=300> |
 
