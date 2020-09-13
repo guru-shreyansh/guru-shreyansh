@@ -9,10 +9,10 @@
 
 | <img src="Pokemon-Dancing_31vamYdZV5ISQ.gif" width=325 height=325> <img src="Pokemon-Go_xUA7aSXMFYRg754qs0.gif" width=325 height=325> <img src="Pokemon-Pika_Xdv29zqFlaSlO.gif" width=325 height=325> |
 
-| <img src="Rise-Up-Community_LnQjpWaON8nhr21vNW.gif" width=325 height=325 <img src="Snorlax_11nEYzFwkwDWuc.gif" width=325 height=325> <img src="Software-Development-Code_lnaoFgGrDHnivdu5Bc.gif" width=300 height=300> |
+| <img src="Rise-Up-Community_LnQjpWaON8nhr21vNW.gif" width=325 height=325> <img src="Snorlax_11nEYzFwkwDWuc.gif" width=325 height=325> <img src="Software-Development-Code_lnaoFgGrDHnivdu5Bc.gif" width=300 height=300> |
 
 | <img src="Sticker-Developer.gif" width=300 height=325> <img src="Sticker-Dino.gif" width=325 height=325> <img src="Sticker-Handshake.gif" width=325 height=325> |
 
-| <img src="Sticker-Hi.gif" width=325 height=325> <img src="Sticker-Mario Gameplay.gif" width=325 height=325> <img src="Text-Hello_xT9IgsPAIIH4BuFr0s.gif" width=325 height=325 |
+| <img src="Sticker-Hi.gif" width=325 height=325> <img src="Sticker-Mario Gameplay.gif" width=325 height=325> <img src="Text-Hello_xT9IgsPAIIH4BuFr0s.gif" width=325 height=325> |
 
 | <img src="Video-Games-Applause_lhvyCCcFuQFKo.gif" width=325 height=325> <img src="Wave-Reaction_ozjhQ61WOfmb9FPbpd.gif" width=325 height=325> |
