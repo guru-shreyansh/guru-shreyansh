@@ -85,7 +85,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
     :email:	sagriddegree.hp.07@gmail.com <br>
     :phone: +919889299896 <br>
     :art: Website🖱Portfolio: https://GURU-Shreyansh.github.IO <br>
-    :pencil: Resume: [Will Upload Soon] <br>
+    :pencil: Resume: <a href="https://drive.google.com/file/d/14SM61QzSwi-SbTHuoMCHkK7Uys9OSBPs/view?usp=sharing" target="_blank"> <b>My 📜 Resume</b></a> <br>
     :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh <br>
     :man: Pronouns: He/Him/His <br>
     :ghost: Hobbies:<table align="center">
