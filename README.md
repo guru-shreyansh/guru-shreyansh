@@ -93,7 +93,10 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
       <tr><td>🍩 Cooking</td> <td>🖼 Painting</td></tr>
       <tr><td>✍ Writing</td> <td>📺 Movies Buff</td></tr>
       </table>
+      <div align="center">
       <img src="https://komarev.com/ghpvc/?username=guru-shreyansh&style=flat&color=red&label=GITHUB+Views" height="23x" alt="Loading..!!">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguru-shreyansh%2Fhit-counter&count_bg=%238D4EBF&title_bg=%230CC5C0&icon=redux.svg&icon_color=%23E7E7E7&title=GITs+HITs&edge_flat=true" height="23x"/>
+      </div>
   </samp>
 </p>
 
