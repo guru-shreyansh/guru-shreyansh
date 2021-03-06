@@ -78,21 +78,22 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
   <br>
   <samp>
     Hello, I'm GURU! <img src="https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif" width="32px"><br>
-    B. Tech Undergraduate in Electrical & Electronics Engineering <br>
+    B. Tech Undergraduate in Electrical & Electronics Engineering<br>
     :school: Institute of Engineering & Management, Kolkata<br>
-    :sparkles: JAVA, C, Web-Devlopement, OOPs, AI <br>
-    :notebook: I’m currently preparing for PSUs Exams <br>
-    :email:	sagriddegree.hp.07@gmail.com <br>
-    :phone: +919889299896 <br>
-    :art: Website🖱Portfolio: https://GURU-Shreyansh.github.IO <br>
-    :pencil: Resume: <a href="https://drive.google.com/file/d/1kSaqh1zH2eM12Rs4pcOYKcP3HozeLUlZ/view?usp=sharing" target="_blank"> <b>My 📜 Resume</b></a> <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh <br>
-    :man: Pronouns: He/Him/His <br>
+    :sparkles: JAVA, C, Web-Devlopement, OOPs, DBMS, Python, AI<br>
+    :notebook: I’m currently preparing for GATE & FAANG<br>
+    :email:	sagriddegree.hp.07@gmail.com<br>
+    :phone: +919889299896<br>
+    :art: Website🖱Portfolio: https://GURU-Shreyansh.github.IO<br>
+    :pencil: Resume: <a href="https://drive.google.com/file/d/1kSaqh1zH2eM12Rs4pcOYKcP3HozeLUlZ/view?usp=sharing" target="_blank"> <b>My 📜 Resume</b></a><br>
+    :briefcase: LinkedIn: https://linkedin.com/in/shreyansh-kumar-singh<br>
+    :man: Pronouns: He/Him/His<br>
     :ghost: Hobbies:<table align="center">
       <tr><td>📸 Photography</td> <td>⚔ Gaming</td></tr>
       <tr><td>🍩 Cooking</td> <td>🖼 Painting</td></tr>
       <tr><td>✍ Writing</td> <td>📺 Movies Buff</td></tr>
       </table>
+      <a href="https://komarev.com/ghpvc/?username=guru-shreyansh&style=flat&color=red&label=GITHUB+Views" target="_blank" alt="Loading..!!"> <b></b> </a>
   </samp>
 </p>
 
@@ -131,7 +132,6 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
 <p align="right">
     ⭐️<a href="https://github.com/GURU-Shreyansh" target="_blank"> <b>GURU-Shreyansh</b></a><img src="https://media.giphy.com/media/Qakyyrk1IKwuK8YtQ6/giphy.gif" width="50">
 </p>
-
 
 
 <!--
