@@ -93,7 +93,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
       <tr><td>🍩 Cooking</td> <td>🖼 Painting</td></tr>
       <tr><td>✍ Writing</td> <td>📺 Movies Buff</td></tr>
       </table>
-      <a href="https://komarev.com/ghpvc/?username=guru-shreyansh&style=flat&color=red&label=GITHUB+Views" target="_blank" alt="Loading..!!"> <b></b> </a>
+      <img src="https://komarev.com/ghpvc/?username=guru-shreyansh&style=flat&color=red&label=GITHUB+Views" height="23x" alt="Loading..!!">
   </samp>
 </p>
 
