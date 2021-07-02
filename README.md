@@ -96,7 +96,7 @@ When I'm not developing and building things, you can find me <b>Youtubing</b>, <
       <div align="center">
       <img src="https://komarev.com/ghpvc/?username=guru-shreyansh&style=flat&color=red&label=GITHUB+Views" height="23x" alt="Loading..!!">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguru-shreyansh%2Fhit-counter&count_bg=%238D4EBF&title_bg=%230CC5C0&icon=redux.svg&icon_color=%23E7E7E7&title=GITs+HITs&edge_flat=true" height="23x"/><br>
-      <a href="https://stackexchange.com/users/13882425"><img src="https://stackexchange.com/users/flair/13882425.png" width="208" height="58" alt="GURU Shreyansh's profile on Stack Exchange, a network of free, community-driven Q&A sites" title="`GURU Shreyansh` on *Stack Exchange* sites"></a>
+      <a href="https://stackexchange.com/users/19017823"><img src="https://stackexchange.com/users/flair/19017823.png" width="208" height="58" alt="GURU Shreyansh's profile on Stack Exchange, a network of free, community-driven Q&A sites" title="`GURU Shreyansh` on *Stack Exchange* sites"></a>
       </div>
   </samp>
 </p>
